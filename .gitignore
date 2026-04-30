@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+respuesta_temporal.mp3
+historial_*.txt
+.DS_Store
+.vscode/

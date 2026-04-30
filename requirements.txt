@@ -1,0 +1,4 @@
+Pillow>=10.0.0
+gTTS>=2.3.2
+pygame>=2.5.0
+pynput>=1.7.6
