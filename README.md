@@ -10,7 +10,7 @@ asistente/
 ├── main.py          # Interfaz gráfica y lógica de conversación
 ├── ia.py            # Diccionarios de respuestas y URLs
 ├── voz.py           # Módulo de síntesis de voz
-└── asistente.png    # Imagen del avatar}
+└── asistente.png    # Imagen del avatar
 ```
 ## Librerias Usadas
 ```
